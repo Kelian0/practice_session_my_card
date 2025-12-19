@@ -10,6 +10,5 @@
 
 ## License
 
-AGPLv3 because I like to force people to be free.
-
+AGPLv3 
 © 2017 Jill-Jênn Vie
